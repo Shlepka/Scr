@@ -1,0 +1,15 @@
+C:\Demka\TT\TT\bin\Debug\net6.0\TT.exe
+C:\Demka\TT\TT\bin\Debug\net6.0\TT.deps.json
+C:\Demka\TT\TT\bin\Debug\net6.0\TT.runtimeconfig.json
+C:\Demka\TT\TT\bin\Debug\net6.0\TT.dll
+C:\Demka\TT\TT\bin\Debug\net6.0\TT.pdb
+C:\Demka\TT\TT\obj\Debug\net6.0\TT.csproj.AssemblyReference.cache
+C:\Demka\TT\TT\obj\Debug\net6.0\TT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demka\TT\TT\obj\Debug\net6.0\TT.AssemblyInfoInputs.cache
+C:\Demka\TT\TT\obj\Debug\net6.0\TT.AssemblyInfo.cs
+C:\Demka\TT\TT\obj\Debug\net6.0\TT.csproj.CoreCompileInputs.cache
+C:\Demka\TT\TT\obj\Debug\net6.0\TT.dll
+C:\Demka\TT\TT\obj\Debug\net6.0\refint\TT.dll
+C:\Demka\TT\TT\obj\Debug\net6.0\TT.pdb
+C:\Demka\TT\TT\obj\Debug\net6.0\TT.genruntimeconfig.cache
+C:\Demka\TT\TT\obj\Debug\net6.0\ref\TT.dll
